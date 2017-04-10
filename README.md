@@ -1,7 +1,4 @@
 # IT-Website
-First, we did the client consultation form to gain rudimentary details about the project.(i.e, purpose, content)
-Then we discussed design details such as scheme and layout.
-
 Homepage-
 We put a slideshow with pictures of the class doing various projects.
 

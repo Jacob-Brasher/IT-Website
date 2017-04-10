@@ -19,3 +19,6 @@ Leads to findapathway.com and contains info on the tech field careers.
 
 Courses page-
 Contains syllabi about the IT, Web design and website development courses for students to access. 
+
+
+***scaling is riddled with bugs, project was intended for pc first, not mobile first****
